@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: electrical-ai-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: electrical-ai-app
+  template:
+    metadata:
+      labels:
+        app: electrical-ai-app
+    spec:
+      containers:
+      - name: electrical-ai-app
+        image: yourdockerhubusername/electrical-ai-app:latest
+        ports:
+        - containerPort: 8000

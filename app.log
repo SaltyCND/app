@@ -1,0 +1,135 @@
+2025-02-06 12:58:28,658 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 12:59:04,871 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 13:05:02,340 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 13:07:07,896 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 13:09:58,662 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 13:23:48,940 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 13:24:19,560 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-06 13:24:28,550 - INFO - Retrieved 5 documents.
+2025-02-06 13:28:57,256 - INFO - Querying Pinecone for context: compare that relay to the 311l relay
+2025-02-06 13:29:00,060 - INFO - Retrieved 5 documents.
+2025-02-06 13:36:57,684 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:09:43,174 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:13:39,927 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:19:31,074 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:23:04,174 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:23:32,641 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-06 14:23:35,645 - INFO - Retrieved 5 documents.
+2025-02-06 14:27:27,505 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:27:48,738 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-06 14:27:51,157 - INFO - Retrieved 5 documents.
+2025-02-06 14:30:29,434 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:30:50,115 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-06 14:30:52,602 - INFO - Retrieved 5 documents.
+2025-02-06 14:34:13,494 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:34:32,421 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-06 14:34:35,018 - INFO - Retrieved 5 documents.
+2025-02-06 14:39:00,469 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:39:19,437 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-06 14:39:21,761 - INFO - Retrieved 5 documents.
+2025-02-06 14:46:19,340 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-06 14:46:38,366 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-06 14:46:41,382 - INFO - Retrieved 5 documents.
+2025-02-07 12:05:06,285 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:05:32,358 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:05:40,312 - INFO - Retrieved 5 documents.
+2025-02-07 12:11:03,617 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:11:21,872 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:11:26,245 - INFO - Retrieved 5 documents.
+2025-02-07 12:17:08,913 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:17:28,548 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:17:31,461 - INFO - Retrieved 5 documents.
+2025-02-07 12:21:37,704 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:22:33,297 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:22:35,687 - INFO - Retrieved 5 documents.
+2025-02-07 12:27:46,492 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:28:22,107 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:28:26,435 - INFO - Retrieved 5 documents.
+2025-02-07 12:33:20,903 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:33:46,534 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:33:49,472 - INFO - Retrieved 5 documents.
+2025-02-07 12:38:02,392 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:38:18,364 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:38:20,652 - INFO - Retrieved 5 documents.
+2025-02-07 12:45:24,475 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:45:50,599 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:45:53,055 - INFO - Retrieved 5 documents.
+2025-02-07 12:46:36,441 - INFO - Returning cached context from Pinecone.
+2025-02-07 12:53:17,199 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 12:53:59,378 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 12:54:01,987 - INFO - Retrieved 5 documents.
+2025-02-07 12:55:43,287 - INFO - Querying Pinecone for context: compare that to the 311L relay.
+2025-02-07 12:55:46,566 - INFO - Retrieved 5 documents.
+2025-02-07 14:26:00,959 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 14:26:49,510 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 14:26:53,423 - INFO - Retrieved 5 documents.
+2025-02-07 14:28:05,446 - INFO - Querying Pinecone for context: how does that compare to a 311L relay?
+2025-02-07 14:28:08,136 - INFO - Retrieved 5 documents.
+2025-02-07 14:37:36,374 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 14:38:08,084 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 14:38:10,462 - INFO - Retrieved 5 documents.
+2025-02-07 14:50:15,954 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:00:41,663 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:02:26,443 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 15:02:28,995 - INFO - Retrieved 5 documents.
+2025-02-07 15:22:07,447 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:22:35,760 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 15:22:38,126 - INFO - Retrieved 5 documents.
+2025-02-07 15:26:22,809 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:26:40,853 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 15:26:42,882 - INFO - Retrieved 5 documents.
+2025-02-07 15:31:30,094 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:31:54,421 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 15:31:56,946 - INFO - Retrieved 5 documents.
+2025-02-07 15:41:51,548 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:42:38,325 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 15:42:41,159 - INFO - Retrieved 5 documents.
+2025-02-07 15:44:52,690 - INFO - Returning cached context from Pinecone.
+2025-02-07 15:48:58,492 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:49:10,546 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:49:40,379 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:50:00,216 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 15:50:02,612 - INFO - Retrieved 5 documents.
+2025-02-07 15:57:38,160 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 15:57:53,187 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 15:57:55,420 - INFO - Retrieved 5 documents.
+2025-02-07 16:00:05,668 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 16:00:15,318 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 16:00:40,980 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 16:00:56,501 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 16:00:58,895 - INFO - Retrieved 5 documents.
+2025-02-07 16:04:25,727 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 16:04:40,324 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 16:04:42,234 - INFO - Retrieved 5 documents.
+2025-02-07 16:07:53,280 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-07 16:08:12,114 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-07 16:08:14,412 - INFO - Retrieved 5 documents.
+2025-02-08 13:43:49,595 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-08 13:44:13,117 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-08 13:44:17,252 - INFO - Retrieved 5 documents.
+2025-02-08 14:29:28,788 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-08 19:34:56,642 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-08 20:23:50,614 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-11 18:47:43,984 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-11 19:49:33,307 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-11 19:49:36,915 - INFO - Retrieved 5 documents.
+2025-02-11 19:50:50,509 - INFO - Querying Pinecone for context: compare that relay to the 311L relay
+2025-02-11 19:50:53,201 - INFO - Retrieved 5 documents.
+2025-02-14 19:13:44,357 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-14 19:14:03,854 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-14 19:14:07,931 - INFO - Retrieved 5 documents.
+2025-02-14 19:15:28,155 - INFO - Querying Pinecone for context: compare that to the 311L relay
+2025-02-14 19:15:31,307 - INFO - Retrieved 5 documents.
+2025-02-14 19:23:42,650 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-14 19:26:29,943 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-14 19:26:54,359 - INFO - Querying Pinecone for context: what is a 487e relay?
+2025-02-14 19:26:56,460 - INFO - Retrieved 5 documents.
+2025-02-14 19:28:10,221 - INFO - Querying Pinecone for context: compare that relay to the 311L relay
+2025-02-14 19:28:13,088 - INFO - Retrieved 5 documents.
+2025-02-14 19:29:05,511 - INFO - Querying Pinecone for context: I asked you to compare the 487e relay to the 311l relay
+2025-02-14 19:29:06,992 - INFO - Retrieved 5 documents.
+2025-02-15 12:34:49,025 - INFO - Advanced ChatGPT-Style Chatbot initialized.
+2025-02-15 12:38:44,980 - INFO - Querying Pinecone for context: what is a 487e relay
+2025-02-15 12:38:53,398 - INFO - Retrieved 5 documents.
+2025-02-15 12:40:23,543 - INFO - Querying Pinecone for context: compare that relay to the 311l relay
+2025-02-15 12:40:37,730 - INFO - Retrieved 5 documents.

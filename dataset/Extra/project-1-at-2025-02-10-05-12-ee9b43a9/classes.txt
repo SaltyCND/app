@@ -1,0 +1,308 @@
+  0: 1-phase
+  1: 1-phase Vacuum or Hydraulic Recloser
+  2: 2-phase
+  3: 3-LINE CCVT
+  4: 3-LINE VOLTAGE TRANSFORMER
+  5: 3-WINDING POWER TRANSFORMER
+  6: 3-phase - wye
+  7: 3-phase Delta
+  8: 3-phase Electronically Controlled Recloser
+  9: 3-phase Vacuum or Hydraulic Recloser
+  10: 3-phase wye - Grounded
+  11: 3-phase, 3-wire zigzag, ground neutral
+  12: 3-phase, 3-wire, Delta
+  13: 3-phase, 3-wire, Open Delta grounded
+  14: 3-phase, 3-wire, wye
+  15: 3-phase, 3-wire, wye grounded neutral
+  16: 3-phase, 3-wire, zigzag
+  17: 34.5kV Bus A-Frame
+  18: 34.5kV Bus Support With VTs & Sta. SVC
+  19: 34.5kV Feeder Breaker
+  20: 34.5kV Feeder Riser
+  21: 34.5kV Neutral Grounding Reactor
+  22: 34.5kV Station Service Transformer Connection
+  23: 34.5kV VT Connection
+  24: 345 kV Breaker
+  25: 345-34.5kV Transformer
+  26: 345kV Bus A-Frame
+  27: 345kV Bus Support
+  28: 345kV Bus Tap
+  29: 345kV CVTs
+  30: 345kV Cable Spacer
+  31: 345kV Dead End
+  32: 345kV Low Mod Switch
+  33: 345kV Surge Arrester
+  34: 345kV Transmission Dead End
+  35: 35.5kV Power Fuse
+  36: 4-POLE GOAB
+  37: AC CIRCUIT BREAKER
+  38: ALARM RELAY
+  39: Auto Transformer
+  40: AutoTransformer - Load Tap Changer
+  41: BACKUP
+  42: BLOCK CLOSE
+  43: BLOCK OPEN
+  44: BREAKER FAIL
+  45: BREAKER FAIL INITIATE
+  46: BREAKER FAIL TRANSFER TRIP
+  47: BUSHING
+  48: BUSHING CURRENT TRANSFORMER
+  49: Bell
+  50: Bolted Connection
+  51: Bus
+  52: Bus Support
+  53: Bus Tap to Cable
+  54: Bushing Type Current Transformer
+  55: Buzzer
+  56: CABLE TAG
+  57: CAPACITIVE COUPLE VOLTAGE TRANSFORMER
+  58: CAPACITIVE COUPLED VOLTAGE TRANSFORMER
+  59: CAPACITOR BANK
+  60: CCVT - Dual Secondary
+  61: CIRCUIT BREAKER
+  62: CIRCUIT SWITCHER
+  63: CLOSE CIRCUIT MINITOR
+  64: CONTROL / STATUS CIRCUIT
+  65: CONTROL SWITCH
+  66: CT - Bushing Type
+  67: CT Low Voltage Circuit
+  68: CT/PT Circuit
+  69: CURRENT TEST SWITCH
+  70: CURRENT TRANSFORMER
+  71: CUT OUT
+  72: Cable Terminator
+  73: Capacitive Voltage Transformer
+  74: Capacitor
+  75: Circuit Breaker
+  76: Circuit Switcher
+  77: Coil
+  78: Communication Circuit
+  79: Control Circuit
+  80: Control Circuit - Customer Wire
+  81: Control Circuit - Manufacturer Wire
+  82: Current Coil
+  83: Current Shorting Test Switch
+  84: DELTA
+  85: DIFFERENTIAL RELAY
+  86: DIGITAL FAULT RECORDER
+  87: DIRECT TRANSFER TRIP
+  88: DIRECTIONAL COMPARISON BLOCKING
+  89: DIRECTIONAL OVERCURRENT
+  90: DIRECTIONAL POWER
+  91: DISTANCE
+  92: DUMMY FUSE SLUG
+  93: Diode
+  94: Double Throw Switch
+  95: Drawout Fuse
+  96: Drawout Type
+  97: Duplex Outlet
+  98: Electronic Device
+  99: End Cap
+  100: Equipment Bushing
+  101: FIBER PATCH PANEL FUSION SPLICE
+  102: FORM "a" RELAY CONTACT
+  103: FORM "b" RELAY CONTACT
+  104: FREQUENCY
+  105: FUSED DISCONNECT
+  106: Fiber Channel
+  107: Flow Switch - Closes on Decrease in Flow
+  108: Flow Switch - Closes on Increased flow
+  109: Flow Switch - Opens on Decrease in Flow
+  110: Flow Switch - Opens on Increase in Flow
+  111: Form C Contact
+  112: Fused Knife Switch
+  113: GROUND
+  114: GROUNDED WYE
+  115: GROUP OPERATED SWITCH
+  116: Gas Circuit Breaker
+  117: Generator
+  118: Generator/Motor
+  119: Generator/Motor - Compensating
+  120: Generator/Motor - Permanent Magnet
+  121: Generator/Motor - Series
+  122: Generator/Motor - Short or Separately Excited
+  123: Grounding Stirrup
+  124: Group Operated Air Disconnect Switch - Center Break
+  125: Group Operated Air Disconnect Switch - Double End Break
+  126: Group Operated Air Disconnect Switch - Motor Operated
+  127: Group Operated Air Disconnect Switch - Side Break
+  128: Group Operated Disconnect Switch
+  129: Group Operated Grounding Switch
+  130: HIGH VOLTAGE FUSE
+  131: HOOKSTICK SWITCH
+  132: Heater
+  133: High Voltage Bus
+  134: High Voltage Insulated Power Cable
+  135: High Voltage Primary Fuse Cutout
+  136: Hook Operated Disconnect Switch
+  137: Hook Operated Fused Disconnect Switch
+  138: Horn
+  139: INDICATOR LIGHT
+  140: INDUCTOR
+  141: INPUT / OUTPUT
+  142: INSTANTANEOUS OVERCURRENT
+  143: INTELIGENT ELECTRONIC DEVICE
+  144: Indicate Device Is Adjustable
+  145: Indicating Light
+  146: Instantaneous Polarity Markups
+  147: Integral Test Switch
+  148: Knife Switch
+  149: LIGHTING ARRESTER
+  150: LIVE-BUS / DEAD-LINE
+  151: LIVE-LINE - DEAD-BUS
+  152: LOAD TAP CHANGER
+  153: LOAD TAP CHANGER (LTC)
+  154: LOCAL-REMOTE
+  155: LOCKOUT RELAY
+  156: LOCKOUT RELAY COIL
+  157: LOSS OF VOLTAGE ALARM
+  158: LOW OIL LEVEL ALARM
+  159: LOW VOLTAGE FUSE
+  160: Latching Relay - Closing Coil
+  161: Latching Relay - Operate
+  162: Latching Relay - Reset
+  163: Latching Relay - Trip Coil
+  164: Lightening Arrester
+  165: Limit Controlled Switch
+  166: Limit Switch - Normally Closed
+  167: Limit Switch - Normally Open
+  168: Liquid Level Switch - Closes on Rising Level
+  169: Liquid Level Switch - Opens on Rising Level
+  170: Load Tap Changer
+  171: Local & PLC Control
+  172: Local & Scada Control
+  173: Local Control Only
+  174: Local, SCADA & PLC Control
+  175: Low Voltage Fuse
+  176: METERING POTENTIAL TRANSFORMER
+  177: MULTI-RATIO BUSHING CURRENT TRANSFORMER
+  178: MULTIFUNCTION
+  179: Medium or Low Voltage Fuse
+  180: Motor Operated Disconnect Switch
+  181: NC RELAY CONTACT
+  182: NEUTRAL MAKEUP
+  183: NO RELAY CONTACT
+  184: NORMALLY CLOSED
+  185: NORMALLY OPEN
+  186: Non-sequenced Bypass Switch
+  187: Normally Closed Contact
+  188: Normally Open contact
+  189: OPERATION MECHANISM
+  190: OPTICAL GROUND WIRE
+  191: OVERVOLTAGE
+  192: Operating Coil
+  193: PERMISSIVE CLOSE
+  194: PERMISSIVE OVERREACHING TRANSFER TRIP
+  195: POTENTIAL TEST SWITCH
+  196: POTENTIAL TRANSFORMER
+  197: POWER CABLE TERMINATOR
+  198: POWER QUALITY METER
+  199: PRESSURE RELAY
+  200: PRIMARY
+  201: PROGRAMMABLE LOGIC CONTROLLER OR POWER LINE CARRIER
+  202: Phasor Representation - Delta
+  203: Phasor Representation - Grounded Wye
+  204: Phasor Representation - Resistively Grounded Wye
+  205: Phasor Representation - Tapped Wye
+  206: Phasor Representation - Wye
+  207: Polarity Markups - Direct Current
+  208: Potential Test Switch
+  209: Potential or Control Test Switch
+  210: Power Circuit Breaker
+  211: Power Circuit Breaker (Drawout)
+  212: Power Circuit Breaker (Outdoor)
+  213: Power Circuit Interrupter
+  214: Power Circuit Switcher (Blade Switch)
+  215: Power Line Carrier Wave Trap
+  216: Pressure Controlled Switch
+  217: Pressure or Vacuum Switch - Closes on Rising Pressure
+  218: Pressure or Vacuum Switch - Opens on Rising Pressure
+  219: Protection or Control Device
+  220: Push Button Single Circuit - Break
+  221: Push Button Single Circuit - Maintained
+  222: Push Button Single Circuit - Make
+  223: Push Button Two Circuit
+  224: Push Button Two Circuit - Maintained
+  225: Pushbutton Switch
+  226: Quick Break Arcing Horns
+  227: RATING FACTOR
+  228: RECLOSING
+  229: RELAY INPUT
+  230: RELAY PANEL NUMBER
+  231: RELAY POWER SUPPLY
+  232: REMOTE TERMINAL UNIT
+  233: RESTRICTED EARTH FAULT
+  234: Reactor
+  235: Relay
+  236: Relay Contact - Normally Closed
+  237: Relay Contact - Normally Open
+  238: Resistively Grounded
+  239: Resistor
+  240: SELECTOR SWITCH
+  241: SEQUENCE OF EVENTS RECORDER
+  242: SHIELDED CABLE
+  243: SINGLE-RATIO CURRENT TRANSFORMER
+  244: SPRING INDICATION
+  245: STATION SERVICE TRANSFORMER
+  246: SUNLIGHT ENERGY STORAGE, LLC
+  247: SUPERVISORY CONTROL & DATA ACQUISITION
+  248: SWITCH
+  249: SWITCH ON TO FAULT
+  250: SYNC CHECK
+  251: Selector Switch Three Position
+  252: Selector Switch Two Position
+  253: Selector or Control Switch
+  254: Sequenced Bypass Switch
+  255: Short Circuit - Not a Fault
+  256: Solenoid
+  257: Solidly Grounded
+  258: Static Wire/OPGW Termination
+  259: Stick Operated Disconnect Switch
+  260: Surge Arrestor
+  261: Switch
+  262: Switch With Vacuum Interrupter
+  263: TEMPERATURE ALARM
+  264: TERMINAL POINT - DEVICES
+  265: TERMINAL POINT - NORMAL
+  266: TEST SWITCH
+  267: THERMAL DEVICE
+  268: THERMAL MAGNETIC CIRCUIT BREAKER
+  269: TIME DELAY RELAY
+  270: TIME OVERCURRENT
+  271: TRANSFER SWITCH
+  272: TRANSFER TRIP
+  273: TRANSFORMER WINDING TEMPERATURE
+  274: TRIP CIRCUIT MONITOR
+  275: TRIP COIL #1
+  276: TRIP COIL #2
+  277: TRIPPING RELAY
+  278: TVS Diode
+  279: Temperature Controlled Switch
+  280: Temperature Switch - Closes on Increasing Temperature
+  281: Terminal
+  282: Terminal Block in Termination Cabinet
+  283: Terminal Block on Relay Panel
+  284: Terminal Point at Equipment
+  285: Terminal Point on Device
+  286: Thermal-Magnetic Circuit Breaker
+  287: Three Winding Transformer
+  288: Three Winding Transformer - Primary Load Tap Changer
+  289: Three Winding Transformer - Secondary Load Tap Changer
+  290: Timing Relay Contact - Closed
+  291: Timing Relay Contact - Open
+  292: Torque Switch - Opens on High torque
+  293: Transformer
+  294: Transformer - Load Tap Changer
+  295: UNDERGROUND POWER CABLE
+  296: UNDERVOLTAGE TAGE
+  297: VOLTAGE TRANSFORMER
+  298: VT - Dual Secondary
+  299: VT - Single Secondary
+  300: VT Low Voltage Circuit
+  301: Vacuum Circuit Breaker
+  302: Voltage Coil
+  303: Voltage Regulator
+  304: Welded Bus Splice
+  305: YARD EQUIPMENT TERMINAL TERMINAL POINT-NORMAL
+  306: connection to chassis or frame
+  307: time Delay Switch

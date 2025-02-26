@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+pinecone-client
+python-dotenv
+rich
+PyPDF2
+pytesseract
+Pillow
+beautifulsoup4
+requests
+langchain_community
+youtube-transcript-api

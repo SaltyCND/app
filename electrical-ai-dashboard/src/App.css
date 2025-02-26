@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* Main dashboard content */
+main {
+  margin: 20px;
+  padding: 20px;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Section styling for spacing */
+.section {
+  margin-bottom: 40px;
+}
+
+/* QueryForm and FileUpload styling (existing) */
+input[type="file"] {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Chat Interface Styles */
+.chat-container {
+  text-align: left;
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.chat-box {
+  height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  padding: 10px;
+  background: #fff;
+  margin-bottom: 10px;
+}
+
+.chat-message {
+  margin-bottom: 10px;
+}
+
+.chat-message.user {
+  text-align: right;
+}
+
+.chat-message.assistant {
+  text-align: left;
+}
+
+.message-content {
+  display: inline-block;
+  padding: 8px;
+  border-radius: 5px;
+  max-width: 70%;
+  margin-top: 4px;
+}
+
+.chat-message.user .message-content {
+  background-color: #dcf8c6;
+}
+
+.chat-message.assistant .message-content {
+  background-color: #f1f0f0;
+}
+
+.chat-form {
+  display: flex;
+}
+
+.chat-form input {
+  flex-grow: 1;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.chat-form button {
+  padding: 10px 20px;
+  margin-left: 10px;
+}
+
+/* Retain the logo spin animation */
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,1241 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "1-phase"
+    },
+    {
+      "id": 1,
+      "name": "1-phase Vacuum or Hydraulic Recloser"
+    },
+    {
+      "id": 2,
+      "name": "2-phase"
+    },
+    {
+      "id": 3,
+      "name": "3-LINE CCVT"
+    },
+    {
+      "id": 4,
+      "name": "3-LINE VOLTAGE TRANSFORMER"
+    },
+    {
+      "id": 5,
+      "name": "3-WINDING POWER TRANSFORMER"
+    },
+    {
+      "id": 6,
+      "name": "3-phase - wye"
+    },
+    {
+      "id": 7,
+      "name": "3-phase Delta"
+    },
+    {
+      "id": 8,
+      "name": "3-phase Electronically Controlled Recloser"
+    },
+    {
+      "id": 9,
+      "name": "3-phase Vacuum or Hydraulic Recloser"
+    },
+    {
+      "id": 10,
+      "name": "3-phase wye - Grounded"
+    },
+    {
+      "id": 11,
+      "name": "3-phase, 3-wire zigzag, ground neutral"
+    },
+    {
+      "id": 12,
+      "name": "3-phase, 3-wire, Delta"
+    },
+    {
+      "id": 13,
+      "name": "3-phase, 3-wire, Open Delta grounded"
+    },
+    {
+      "id": 14,
+      "name": "3-phase, 3-wire, wye"
+    },
+    {
+      "id": 15,
+      "name": "3-phase, 3-wire, wye grounded neutral"
+    },
+    {
+      "id": 16,
+      "name": "3-phase, 3-wire, zigzag"
+    },
+    {
+      "id": 17,
+      "name": "34.5kV Bus A-Frame"
+    },
+    {
+      "id": 18,
+      "name": "34.5kV Bus Support With VTs & Sta. SVC"
+    },
+    {
+      "id": 19,
+      "name": "34.5kV Feeder Breaker"
+    },
+    {
+      "id": 20,
+      "name": "34.5kV Feeder Riser"
+    },
+    {
+      "id": 21,
+      "name": "34.5kV Neutral Grounding Reactor"
+    },
+    {
+      "id": 22,
+      "name": "34.5kV Station Service Transformer Connection"
+    },
+    {
+      "id": 23,
+      "name": "34.5kV VT Connection"
+    },
+    {
+      "id": 24,
+      "name": "345 kV Breaker"
+    },
+    {
+      "id": 25,
+      "name": "345-34.5kV Transformer"
+    },
+    {
+      "id": 26,
+      "name": "345kV Bus A-Frame"
+    },
+    {
+      "id": 27,
+      "name": "345kV Bus Support"
+    },
+    {
+      "id": 28,
+      "name": "345kV Bus Tap"
+    },
+    {
+      "id": 29,
+      "name": "345kV CVTs"
+    },
+    {
+      "id": 30,
+      "name": "345kV Cable Spacer"
+    },
+    {
+      "id": 31,
+      "name": "345kV Dead End"
+    },
+    {
+      "id": 32,
+      "name": "345kV Low Mod Switch"
+    },
+    {
+      "id": 33,
+      "name": "345kV Surge Arrester"
+    },
+    {
+      "id": 34,
+      "name": "345kV Transmission Dead End"
+    },
+    {
+      "id": 35,
+      "name": "35.5kV Power Fuse"
+    },
+    {
+      "id": 36,
+      "name": "4-POLE GOAB"
+    },
+    {
+      "id": 37,
+      "name": "AC CIRCUIT BREAKER"
+    },
+    {
+      "id": 38,
+      "name": "ALARM RELAY"
+    },
+    {
+      "id": 39,
+      "name": "Auto Transformer"
+    },
+    {
+      "id": 40,
+      "name": "AutoTransformer - Load Tap Changer"
+    },
+    {
+      "id": 41,
+      "name": "BACKUP"
+    },
+    {
+      "id": 42,
+      "name": "BLOCK CLOSE"
+    },
+    {
+      "id": 43,
+      "name": "BLOCK OPEN"
+    },
+    {
+      "id": 44,
+      "name": "BREAKER FAIL"
+    },
+    {
+      "id": 45,
+      "name": "BREAKER FAIL INITIATE"
+    },
+    {
+      "id": 46,
+      "name": "BREAKER FAIL TRANSFER TRIP"
+    },
+    {
+      "id": 47,
+      "name": "BUSHING"
+    },
+    {
+      "id": 48,
+      "name": "BUSHING CURRENT TRANSFORMER"
+    },
+    {
+      "id": 49,
+      "name": "Bell"
+    },
+    {
+      "id": 50,
+      "name": "Bolted Connection"
+    },
+    {
+      "id": 51,
+      "name": "Bus"
+    },
+    {
+      "id": 52,
+      "name": "Bus Support"
+    },
+    {
+      "id": 53,
+      "name": "Bus Tap to Cable"
+    },
+    {
+      "id": 54,
+      "name": "Bushing Type Current Transformer"
+    },
+    {
+      "id": 55,
+      "name": "Buzzer"
+    },
+    {
+      "id": 56,
+      "name": "CABLE TAG"
+    },
+    {
+      "id": 57,
+      "name": "CAPACITIVE COUPLE VOLTAGE TRANSFORMER"
+    },
+    {
+      "id": 58,
+      "name": "CAPACITIVE COUPLED VOLTAGE TRANSFORMER"
+    },
+    {
+      "id": 59,
+      "name": "CAPACITOR BANK"
+    },
+    {
+      "id": 60,
+      "name": "CCVT - Dual Secondary"
+    },
+    {
+      "id": 61,
+      "name": "CIRCUIT BREAKER"
+    },
+    {
+      "id": 62,
+      "name": "CIRCUIT SWITCHER"
+    },
+    {
+      "id": 63,
+      "name": "CLOSE CIRCUIT MINITOR"
+    },
+    {
+      "id": 64,
+      "name": "CONTROL \/ STATUS CIRCUIT"
+    },
+    {
+      "id": 65,
+      "name": "CONTROL SWITCH"
+    },
+    {
+      "id": 66,
+      "name": "CT - Bushing Type"
+    },
+    {
+      "id": 67,
+      "name": "CT Low Voltage Circuit"
+    },
+    {
+      "id": 68,
+      "name": "CT\/PT Circuit"
+    },
+    {
+      "id": 69,
+      "name": "CURRENT TEST SWITCH"
+    },
+    {
+      "id": 70,
+      "name": "CURRENT TRANSFORMER"
+    },
+    {
+      "id": 71,
+      "name": "CUT OUT"
+    },
+    {
+      "id": 72,
+      "name": "Cable Terminator"
+    },
+    {
+      "id": 73,
+      "name": "Capacitive Voltage Transformer"
+    },
+    {
+      "id": 74,
+      "name": "Capacitor"
+    },
+    {
+      "id": 75,
+      "name": "Circuit Breaker"
+    },
+    {
+      "id": 76,
+      "name": "Circuit Switcher"
+    },
+    {
+      "id": 77,
+      "name": "Coil"
+    },
+    {
+      "id": 78,
+      "name": "Communication Circuit"
+    },
+    {
+      "id": 79,
+      "name": "Control Circuit"
+    },
+    {
+      "id": 80,
+      "name": "Control Circuit - Customer Wire"
+    },
+    {
+      "id": 81,
+      "name": "Control Circuit - Manufacturer Wire"
+    },
+    {
+      "id": 82,
+      "name": "Current Coil"
+    },
+    {
+      "id": 83,
+      "name": "Current Shorting Test Switch"
+    },
+    {
+      "id": 84,
+      "name": "DELTA"
+    },
+    {
+      "id": 85,
+      "name": "DIFFERENTIAL RELAY"
+    },
+    {
+      "id": 86,
+      "name": "DIGITAL FAULT RECORDER"
+    },
+    {
+      "id": 87,
+      "name": "DIRECT TRANSFER TRIP"
+    },
+    {
+      "id": 88,
+      "name": "DIRECTIONAL COMPARISON BLOCKING"
+    },
+    {
+      "id": 89,
+      "name": "DIRECTIONAL OVERCURRENT"
+    },
+    {
+      "id": 90,
+      "name": "DIRECTIONAL POWER"
+    },
+    {
+      "id": 91,
+      "name": "DISTANCE"
+    },
+    {
+      "id": 92,
+      "name": "DUMMY FUSE SLUG"
+    },
+    {
+      "id": 93,
+      "name": "Diode"
+    },
+    {
+      "id": 94,
+      "name": "Double Throw Switch"
+    },
+    {
+      "id": 95,
+      "name": "Drawout Fuse"
+    },
+    {
+      "id": 96,
+      "name": "Drawout Type"
+    },
+    {
+      "id": 97,
+      "name": "Duplex Outlet"
+    },
+    {
+      "id": 98,
+      "name": "Electronic Device"
+    },
+    {
+      "id": 99,
+      "name": "End Cap"
+    },
+    {
+      "id": 100,
+      "name": "Equipment Bushing"
+    },
+    {
+      "id": 101,
+      "name": "FIBER PATCH PANEL FUSION SPLICE"
+    },
+    {
+      "id": 102,
+      "name": "FORM \"a\" RELAY CONTACT"
+    },
+    {
+      "id": 103,
+      "name": "FORM \"b\" RELAY CONTACT"
+    },
+    {
+      "id": 104,
+      "name": "FREQUENCY"
+    },
+    {
+      "id": 105,
+      "name": "FUSED DISCONNECT"
+    },
+    {
+      "id": 106,
+      "name": "Fiber Channel"
+    },
+    {
+      "id": 107,
+      "name": "Flow Switch - Closes on Decrease in Flow"
+    },
+    {
+      "id": 108,
+      "name": "Flow Switch - Closes on Increased flow"
+    },
+    {
+      "id": 109,
+      "name": "Flow Switch - Opens on Decrease in Flow"
+    },
+    {
+      "id": 110,
+      "name": "Flow Switch - Opens on Increase in Flow"
+    },
+    {
+      "id": 111,
+      "name": "Form C Contact"
+    },
+    {
+      "id": 112,
+      "name": "Fused Knife Switch"
+    },
+    {
+      "id": 113,
+      "name": "GROUND"
+    },
+    {
+      "id": 114,
+      "name": "GROUNDED WYE"
+    },
+    {
+      "id": 115,
+      "name": "GROUP OPERATED SWITCH"
+    },
+    {
+      "id": 116,
+      "name": "Gas Circuit Breaker"
+    },
+    {
+      "id": 117,
+      "name": "Generator"
+    },
+    {
+      "id": 118,
+      "name": "Generator\/Motor"
+    },
+    {
+      "id": 119,
+      "name": "Generator\/Motor - Compensating"
+    },
+    {
+      "id": 120,
+      "name": "Generator\/Motor - Permanent Magnet"
+    },
+    {
+      "id": 121,
+      "name": "Generator\/Motor - Series"
+    },
+    {
+      "id": 122,
+      "name": "Generator\/Motor - Short or Separately Excited"
+    },
+    {
+      "id": 123,
+      "name": "Grounding Stirrup"
+    },
+    {
+      "id": 124,
+      "name": "Group Operated Air Disconnect Switch - Center Break"
+    },
+    {
+      "id": 125,
+      "name": "Group Operated Air Disconnect Switch - Double End Break"
+    },
+    {
+      "id": 126,
+      "name": "Group Operated Air Disconnect Switch - Motor Operated"
+    },
+    {
+      "id": 127,
+      "name": "Group Operated Air Disconnect Switch - Side Break"
+    },
+    {
+      "id": 128,
+      "name": "Group Operated Disconnect Switch"
+    },
+    {
+      "id": 129,
+      "name": "Group Operated Grounding Switch"
+    },
+    {
+      "id": 130,
+      "name": "HIGH VOLTAGE FUSE"
+    },
+    {
+      "id": 131,
+      "name": "HOOKSTICK SWITCH"
+    },
+    {
+      "id": 132,
+      "name": "Heater"
+    },
+    {
+      "id": 133,
+      "name": "High Voltage Bus"
+    },
+    {
+      "id": 134,
+      "name": "High Voltage Insulated Power Cable"
+    },
+    {
+      "id": 135,
+      "name": "High Voltage Primary Fuse Cutout"
+    },
+    {
+      "id": 136,
+      "name": "Hook Operated Disconnect Switch"
+    },
+    {
+      "id": 137,
+      "name": "Hook Operated Fused Disconnect Switch"
+    },
+    {
+      "id": 138,
+      "name": "Horn"
+    },
+    {
+      "id": 139,
+      "name": "INDICATOR LIGHT"
+    },
+    {
+      "id": 140,
+      "name": "INDUCTOR"
+    },
+    {
+      "id": 141,
+      "name": "INPUT \/ OUTPUT"
+    },
+    {
+      "id": 142,
+      "name": "INSTANTANEOUS OVERCURRENT"
+    },
+    {
+      "id": 143,
+      "name": "INTELIGENT ELECTRONIC DEVICE"
+    },
+    {
+      "id": 144,
+      "name": "Indicate Device Is Adjustable"
+    },
+    {
+      "id": 145,
+      "name": "Indicating Light"
+    },
+    {
+      "id": 146,
+      "name": "Instantaneous Polarity Markups"
+    },
+    {
+      "id": 147,
+      "name": "Integral Test Switch"
+    },
+    {
+      "id": 148,
+      "name": "Knife Switch"
+    },
+    {
+      "id": 149,
+      "name": "LIGHTING ARRESTER"
+    },
+    {
+      "id": 150,
+      "name": "LIVE-BUS \/ DEAD-LINE"
+    },
+    {
+      "id": 151,
+      "name": "LIVE-LINE - DEAD-BUS"
+    },
+    {
+      "id": 152,
+      "name": "LOAD TAP CHANGER"
+    },
+    {
+      "id": 153,
+      "name": "LOAD TAP CHANGER (LTC)"
+    },
+    {
+      "id": 154,
+      "name": "LOCAL-REMOTE"
+    },
+    {
+      "id": 155,
+      "name": "LOCKOUT RELAY"
+    },
+    {
+      "id": 156,
+      "name": "LOCKOUT RELAY COIL"
+    },
+    {
+      "id": 157,
+      "name": "LOSS OF VOLTAGE ALARM"
+    },
+    {
+      "id": 158,
+      "name": "LOW OIL LEVEL ALARM"
+    },
+    {
+      "id": 159,
+      "name": "LOW VOLTAGE FUSE"
+    },
+    {
+      "id": 160,
+      "name": "Latching Relay - Closing Coil"
+    },
+    {
+      "id": 161,
+      "name": "Latching Relay - Operate"
+    },
+    {
+      "id": 162,
+      "name": "Latching Relay - Reset"
+    },
+    {
+      "id": 163,
+      "name": "Latching Relay - Trip Coil"
+    },
+    {
+      "id": 164,
+      "name": "Lightening Arrester"
+    },
+    {
+      "id": 165,
+      "name": "Limit Controlled Switch"
+    },
+    {
+      "id": 166,
+      "name": "Limit Switch - Normally Closed"
+    },
+    {
+      "id": 167,
+      "name": "Limit Switch - Normally Open"
+    },
+    {
+      "id": 168,
+      "name": "Liquid Level Switch - Closes on Rising Level"
+    },
+    {
+      "id": 169,
+      "name": "Liquid Level Switch - Opens on Rising Level"
+    },
+    {
+      "id": 170,
+      "name": "Load Tap Changer"
+    },
+    {
+      "id": 171,
+      "name": "Local & PLC Control"
+    },
+    {
+      "id": 172,
+      "name": "Local & Scada Control"
+    },
+    {
+      "id": 173,
+      "name": "Local Control Only"
+    },
+    {
+      "id": 174,
+      "name": "Local, SCADA & PLC Control"
+    },
+    {
+      "id": 175,
+      "name": "Low Voltage Fuse"
+    },
+    {
+      "id": 176,
+      "name": "METERING POTENTIAL TRANSFORMER"
+    },
+    {
+      "id": 177,
+      "name": "MULTI-RATIO BUSHING CURRENT TRANSFORMER"
+    },
+    {
+      "id": 178,
+      "name": "MULTIFUNCTION"
+    },
+    {
+      "id": 179,
+      "name": "Medium or Low Voltage Fuse"
+    },
+    {
+      "id": 180,
+      "name": "Motor Operated Disconnect Switch"
+    },
+    {
+      "id": 181,
+      "name": "NC RELAY CONTACT"
+    },
+    {
+      "id": 182,
+      "name": "NEUTRAL MAKEUP"
+    },
+    {
+      "id": 183,
+      "name": "NO RELAY CONTACT"
+    },
+    {
+      "id": 184,
+      "name": "NORMALLY CLOSED"
+    },
+    {
+      "id": 185,
+      "name": "NORMALLY OPEN"
+    },
+    {
+      "id": 186,
+      "name": "Non-sequenced Bypass Switch"
+    },
+    {
+      "id": 187,
+      "name": "Normally Closed Contact"
+    },
+    {
+      "id": 188,
+      "name": "Normally Open contact"
+    },
+    {
+      "id": 189,
+      "name": "OPERATION MECHANISM"
+    },
+    {
+      "id": 190,
+      "name": "OPTICAL GROUND WIRE"
+    },
+    {
+      "id": 191,
+      "name": "OVERVOLTAGE"
+    },
+    {
+      "id": 192,
+      "name": "Operating Coil"
+    },
+    {
+      "id": 193,
+      "name": "PERMISSIVE CLOSE"
+    },
+    {
+      "id": 194,
+      "name": "PERMISSIVE OVERREACHING TRANSFER TRIP"
+    },
+    {
+      "id": 195,
+      "name": "POTENTIAL TEST SWITCH"
+    },
+    {
+      "id": 196,
+      "name": "POTENTIAL TRANSFORMER"
+    },
+    {
+      "id": 197,
+      "name": "POWER CABLE TERMINATOR"
+    },
+    {
+      "id": 198,
+      "name": "POWER QUALITY METER"
+    },
+    {
+      "id": 199,
+      "name": "PRESSURE RELAY"
+    },
+    {
+      "id": 200,
+      "name": "PRIMARY"
+    },
+    {
+      "id": 201,
+      "name": "PROGRAMMABLE LOGIC CONTROLLER OR POWER LINE CARRIER"
+    },
+    {
+      "id": 202,
+      "name": "Phasor Representation - Delta"
+    },
+    {
+      "id": 203,
+      "name": "Phasor Representation - Grounded Wye"
+    },
+    {
+      "id": 204,
+      "name": "Phasor Representation - Resistively Grounded Wye"
+    },
+    {
+      "id": 205,
+      "name": "Phasor Representation - Tapped Wye"
+    },
+    {
+      "id": 206,
+      "name": "Phasor Representation - Wye"
+    },
+    {
+      "id": 207,
+      "name": "Polarity Markups - Direct Current"
+    },
+    {
+      "id": 208,
+      "name": "Potential Test Switch"
+    },
+    {
+      "id": 209,
+      "name": "Potential or Control Test Switch"
+    },
+    {
+      "id": 210,
+      "name": "Power Circuit Breaker"
+    },
+    {
+      "id": 211,
+      "name": "Power Circuit Breaker (Drawout)"
+    },
+    {
+      "id": 212,
+      "name": "Power Circuit Breaker (Outdoor)"
+    },
+    {
+      "id": 213,
+      "name": "Power Circuit Interrupter"
+    },
+    {
+      "id": 214,
+      "name": "Power Circuit Switcher (Blade Switch)"
+    },
+    {
+      "id": 215,
+      "name": "Power Line Carrier Wave Trap"
+    },
+    {
+      "id": 216,
+      "name": "Pressure Controlled Switch"
+    },
+    {
+      "id": 217,
+      "name": "Pressure or Vacuum Switch - Closes on Rising Pressure"
+    },
+    {
+      "id": 218,
+      "name": "Pressure or Vacuum Switch - Opens on Rising Pressure"
+    },
+    {
+      "id": 219,
+      "name": "Protection or Control Device"
+    },
+    {
+      "id": 220,
+      "name": "Push Button Single Circuit - Break"
+    },
+    {
+      "id": 221,
+      "name": "Push Button Single Circuit - Maintained"
+    },
+    {
+      "id": 222,
+      "name": "Push Button Single Circuit - Make"
+    },
+    {
+      "id": 223,
+      "name": "Push Button Two Circuit"
+    },
+    {
+      "id": 224,
+      "name": "Push Button Two Circuit - Maintained"
+    },
+    {
+      "id": 225,
+      "name": "Pushbutton Switch"
+    },
+    {
+      "id": 226,
+      "name": "Quick Break Arcing Horns"
+    },
+    {
+      "id": 227,
+      "name": "RATING FACTOR"
+    },
+    {
+      "id": 228,
+      "name": "RECLOSING"
+    },
+    {
+      "id": 229,
+      "name": "RELAY INPUT"
+    },
+    {
+      "id": 230,
+      "name": "RELAY PANEL NUMBER"
+    },
+    {
+      "id": 231,
+      "name": "RELAY POWER SUPPLY"
+    },
+    {
+      "id": 232,
+      "name": "REMOTE TERMINAL UNIT"
+    },
+    {
+      "id": 233,
+      "name": "RESTRICTED EARTH FAULT"
+    },
+    {
+      "id": 234,
+      "name": "Reactor"
+    },
+    {
+      "id": 235,
+      "name": "Relay"
+    },
+    {
+      "id": 236,
+      "name": "Relay Contact - Normally Closed"
+    },
+    {
+      "id": 237,
+      "name": "Relay Contact - Normally Open"
+    },
+    {
+      "id": 238,
+      "name": "Resistively Grounded"
+    },
+    {
+      "id": 239,
+      "name": "Resistor"
+    },
+    {
+      "id": 240,
+      "name": "SELECTOR SWITCH"
+    },
+    {
+      "id": 241,
+      "name": "SEQUENCE OF EVENTS RECORDER"
+    },
+    {
+      "id": 242,
+      "name": "SHIELDED CABLE"
+    },
+    {
+      "id": 243,
+      "name": "SINGLE-RATIO CURRENT TRANSFORMER"
+    },
+    {
+      "id": 244,
+      "name": "SPRING INDICATION"
+    },
+    {
+      "id": 245,
+      "name": "STATION SERVICE TRANSFORMER"
+    },
+    {
+      "id": 246,
+      "name": "SUNLIGHT ENERGY STORAGE, LLC"
+    },
+    {
+      "id": 247,
+      "name": "SUPERVISORY CONTROL & DATA ACQUISITION"
+    },
+    {
+      "id": 248,
+      "name": "SWITCH"
+    },
+    {
+      "id": 249,
+      "name": "SWITCH ON TO FAULT"
+    },
+    {
+      "id": 250,
+      "name": "SYNC CHECK"
+    },
+    {
+      "id": 251,
+      "name": "Selector Switch Three Position"
+    },
+    {
+      "id": 252,
+      "name": "Selector Switch Two Position"
+    },
+    {
+      "id": 253,
+      "name": "Selector or Control Switch"
+    },
+    {
+      "id": 254,
+      "name": "Sequenced Bypass Switch"
+    },
+    {
+      "id": 255,
+      "name": "Short Circuit - Not a Fault"
+    },
+    {
+      "id": 256,
+      "name": "Solenoid"
+    },
+    {
+      "id": 257,
+      "name": "Solidly Grounded"
+    },
+    {
+      "id": 258,
+      "name": "Static Wire\/OPGW Termination"
+    },
+    {
+      "id": 259,
+      "name": "Stick Operated Disconnect Switch"
+    },
+    {
+      "id": 260,
+      "name": "Surge Arrestor"
+    },
+    {
+      "id": 261,
+      "name": "Switch"
+    },
+    {
+      "id": 262,
+      "name": "Switch With Vacuum Interrupter"
+    },
+    {
+      "id": 263,
+      "name": "TEMPERATURE ALARM"
+    },
+    {
+      "id": 264,
+      "name": "TERMINAL POINT - DEVICES"
+    },
+    {
+      "id": 265,
+      "name": "TERMINAL POINT - NORMAL"
+    },
+    {
+      "id": 266,
+      "name": "TEST SWITCH"
+    },
+    {
+      "id": 267,
+      "name": "THERMAL DEVICE"
+    },
+    {
+      "id": 268,
+      "name": "THERMAL MAGNETIC CIRCUIT BREAKER"
+    },
+    {
+      "id": 269,
+      "name": "TIME DELAY RELAY"
+    },
+    {
+      "id": 270,
+      "name": "TIME OVERCURRENT"
+    },
+    {
+      "id": 271,
+      "name": "TRANSFER SWITCH"
+    },
+    {
+      "id": 272,
+      "name": "TRANSFER TRIP"
+    },
+    {
+      "id": 273,
+      "name": "TRANSFORMER WINDING TEMPERATURE"
+    },
+    {
+      "id": 274,
+      "name": "TRIP CIRCUIT MONITOR"
+    },
+    {
+      "id": 275,
+      "name": "TRIP COIL #1"
+    },
+    {
+      "id": 276,
+      "name": "TRIP COIL #2"
+    },
+    {
+      "id": 277,
+      "name": "TRIPPING RELAY"
+    },
+    {
+      "id": 278,
+      "name": "TVS Diode"
+    },
+    {
+      "id": 279,
+      "name": "Temperature Controlled Switch"
+    },
+    {
+      "id": 280,
+      "name": "Temperature Switch - Closes on Increasing Temperature"
+    },
+    {
+      "id": 281,
+      "name": "Terminal"
+    },
+    {
+      "id": 282,
+      "name": "Terminal Block in Termination Cabinet"
+    },
+    {
+      "id": 283,
+      "name": "Terminal Block on Relay Panel"
+    },
+    {
+      "id": 284,
+      "name": "Terminal Point at Equipment"
+    },
+    {
+      "id": 285,
+      "name": "Terminal Point on Device"
+    },
+    {
+      "id": 286,
+      "name": "Thermal-Magnetic Circuit Breaker"
+    },
+    {
+      "id": 287,
+      "name": "Three Winding Transformer"
+    },
+    {
+      "id": 288,
+      "name": "Three Winding Transformer - Primary Load Tap Changer"
+    },
+    {
+      "id": 289,
+      "name": "Three Winding Transformer - Secondary Load Tap Changer"
+    },
+    {
+      "id": 290,
+      "name": "Timing Relay Contact - Closed"
+    },
+    {
+      "id": 291,
+      "name": "Timing Relay Contact - Open"
+    },
+    {
+      "id": 292,
+      "name": "Torque Switch - Opens on High torque"
+    },
+    {
+      "id": 293,
+      "name": "Transformer"
+    },
+    {
+      "id": 294,
+      "name": "Transformer - Load Tap Changer"
+    },
+    {
+      "id": 295,
+      "name": "UNDERGROUND POWER CABLE"
+    },
+    {
+      "id": 296,
+      "name": "UNDERVOLTAGE TAGE"
+    },
+    {
+      "id": 297,
+      "name": "VOLTAGE TRANSFORMER"
+    },
+    {
+      "id": 298,
+      "name": "VT - Dual Secondary"
+    },
+    {
+      "id": 299,
+      "name": "VT - Single Secondary"
+    },
+    {
+      "id": 300,
+      "name": "VT Low Voltage Circuit"
+    },
+    {
+      "id": 301,
+      "name": "Vacuum Circuit Breaker"
+    },
+    {
+      "id": 302,
+      "name": "Voltage Coil"
+    },
+    {
+      "id": 303,
+      "name": "Voltage Regulator"
+    },
+    {
+      "id": 304,
+      "name": "Welded Bus Splice"
+    },
+    {
+      "id": 305,
+      "name": "YARD EQUIPMENT TERMINAL TERMINAL POINT-NORMAL"
+    },
+    {
+      "id": 306,
+      "name": "connection to chassis or frame"
+    },
+    {
+      "id": 307,
+      "name": "time Delay Switch"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
