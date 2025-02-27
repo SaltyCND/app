@@ -1,0 +1,4 @@
+# Large files to ignore
+ai_app_env/
+electrical-ai-dashboard/node_modules/
+data/manuals/*.pdf
