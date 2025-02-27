@@ -3,3 +3,12 @@ ai_app_env/
 electrical-ai-dashboard/node_modules/
 data/manuals/IEC 61850-Based Smart Substations*.pdf
 data/manuals/Testing, Commissioning, Operation*.pdf
+
+# Ignore all node_modules (even nested ones)
+**/node_modules/
+
+# Ignore cache directories
+**/.cache/
+
+# Ignore large PDF files if they aren’t essential
+*.pdf
