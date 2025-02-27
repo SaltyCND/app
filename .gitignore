@@ -46,3 +46,10 @@ dockerfile
 
 # Large files: Ignore all PDF files
 *.pdf
+
+# Exclude large PDF and dylib files
+*.pdf
+*.dylibai_app_env/
+electrical-ai-dashboard/node_modules/
+data/manuals/IEC 61850-Based Smart Substations*.pdf
+data/manuals/Testing, Commissioning, Operation*.pdf
